@@ -1,0 +1,22 @@
+"Visual MINTEQ 3.1 input file  "
+"Problem no.",1
+"Databases:","C:\Users\anand\Documents\Vminteq31\thermo.vdb","C:\Users\anand\Documents\Vminteq31\type6.vdb","C:\Users\anand\Documents\Vminteq31\comp_2008.vdb","C:\Users\anand\Documents\Vminteq31\gaussian.vdb"
+25,"mg/l",0.001,0
+0,0,1,0,3,0,0,1,1,1,0,0,0
+"MULTI / SWEEP","",1
+0,0,0
+"No. of components",9
+330,1E-16,-7,"y","n","H+1"
+500,0.9,-4.40729266155951,"y","n","Na+1"
+460,0.5,-4.68685068273587,"y","n","Mg+2"
+150,2.9,-4.14052971496023,"y","n","Ca+2"
+410,0.6,-4.8140477209956,"y","n","K+1"
+490,0.4,-4.65414287462571,"y","n","NH4+1"
+180,2.1,-4.22743369593664,"y","n","Cl-1"
+492,2,-4.49139603216768,"y","n","NO3-1"
+732,1.1,-4.94115713786883,"y","n","SO4-2"
+""
+3,1
+330,7,0,"H+1"
+""
+"END"
