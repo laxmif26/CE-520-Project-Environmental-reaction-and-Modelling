@@ -1,0 +1,9 @@
+1 -  only SO2 and CO2 partial pressure are there
+2 - Replaced the missing values with the average value of the region
+3 - For VMINTEQ and PHREEQ-C unit used for conc is mg/L whereas for GWB it is ueq/L
+5 - From (2001-2009) - July-sept Monsoon (JJAS), AIRS (2002-2017 data)
+    From (2008-2009) - July-sept Monsoon (JJAS), GOSAT (2009-2020 data)
+    From (2012-2021) - July-sept Monsoon (JJAS), OCO-2 (2014-2020 data)
+    {as per paper lowest among all seasons}
+4 - We'll use the average partial pressure data for the values of missing partial pressure
+
